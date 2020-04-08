@@ -19,10 +19,7 @@ namespace xiangmu.Controllers
             return View();
         }
 
-        public ActionResult yy()
-        {
-            return View();
-        }
+     
 
     }
 }
